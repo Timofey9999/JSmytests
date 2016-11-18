@@ -1,0 +1,2 @@
+# JSmytests
+for JS learning
